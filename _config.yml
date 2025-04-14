@@ -2,7 +2,7 @@ title: My Awesome Docs
 description: A knowledge base for my project
 theme: jekyll-rtd-theme
 markdown: kramdown
-url: "https://yourusername.github.io"
+url: "https://github.com/Cyber2499/JekyllResponse"
 exclude:
   - Gemfile
   - Gemfile.lock
