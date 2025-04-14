@@ -1,0 +1,10 @@
+title: My Awesome Docs
+description: A knowledge base for my project
+theme: jekyll-rtd-theme
+markdown: kramdown
+url: "https://yourusername.github.io"
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+# Custom navigation order or sidebar tweaks can be added too
