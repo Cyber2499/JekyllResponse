@@ -1,4 +1,8 @@
-# Getting started Page
+---
+title: Getting Started
+nav_order: 2
+---
 
+# Getting Started
 
-This is the second page created
+Welcome to the docs.
